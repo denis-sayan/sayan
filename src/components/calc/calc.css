@@ -1,0 +1,30 @@
+.calc{
+	display: flex;
+	max-width: 500px;
+}
+.calc-fields{
+	
+}
+.calc-input{
+	width: 100px;
+}
+.calc-component{
+	
+}
+input[type="text"]{
+	width: 100%;
+}
+.calc-result-contain{
+	margin-left: 50px;
+}
+.calc-result{
+	margin-top: 10px;
+	border: 1px solid #d4d4d4;
+	font-size: 30px;
+	font-weight: 500;
+	min-width: 100px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
